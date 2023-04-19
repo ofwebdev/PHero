@@ -1,0 +1,12 @@
+Source code : https://github.com/Porgramming-Hero-web-course/b7a8-knowledge-cafe-ofwebdev
+
+Live link : https://courageous-donut-d1d1f3.netlify.app/
+
+
+1. Different beetween props and state?
+
+2. How useState work?
+
+3. Without data load what useEffect do ?
+
+4. How does react work ?

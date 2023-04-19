@@ -1,0 +1,16 @@
+.country {
+  background: #dcd5cd;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.country img {
+  width: 250px;
+  object-fit: contain;
+}
+
+.display-data {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}

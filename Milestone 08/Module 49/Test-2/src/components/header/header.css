@@ -1,0 +1,12 @@
+.banner {
+  background: #000;
+  height: 250px;
+  margin-top: 20px;
+  border-radius: 16px;
+}
+
+.banner-right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

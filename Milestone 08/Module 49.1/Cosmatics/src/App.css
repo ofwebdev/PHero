@@ -1,0 +1,11 @@
+.grid-layout {
+  display: grid;
+  grid-template-columns: repeat(4, 300px);
+  place-content: center;
+  gap: 10px;
+}
+.single-student {
+  border: 2px solid sandybrown;
+  margin-bottom: 16px;
+  padding: 16px;
+}
